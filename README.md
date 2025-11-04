@@ -5,7 +5,7 @@ I’m **Gazal Pancholi**, a Computer Science Engineering student passionate abou
 
 This repository contains my latest **resume** — you can view or download it below 👇  
 
-📄 **[View My Resume](https://github.com/yourusername/resume/raw/main/Gazal_Pancholi_Resume.pdf)**  
+📄 **[View My Resume](https://github.com/Gazal-1908/Resume/blob/main/My%20Resume.pdf)**  
 
 ---
 
