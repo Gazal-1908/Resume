@@ -19,10 +19,10 @@ This repository contains my latest **resume** - you can view or download it belo
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python,C++, Java, C, HTML, CSS
-**Tools & Frameworks:** Firebase, AWS, Gradio, Google Cloud- Colab, Pycharm
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, OpenCV, Keras 
-**Other Interests:** Cloud Computing, AI Integration, Machine Learning
+- **Languages:** Python,C++, Java, C, HTML, CSS
+- **Tools & Frameworks:** Firebase, AWS, Gradio, Google Cloud- Colab, Pycharm
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, OpenCV, Keras 
+- **Other Interests:** Cloud Computing, AI Integration, Machine Learning
 
 ---
 
