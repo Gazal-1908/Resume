@@ -1,7 +1,7 @@
 # 💼 Gazal Pancholi — Resume
 
 Hi there 👋  
-I’m **Gazal Pancholi**, a Computer Science Engineering student passionate about **AI, web development, and creative tech projects**.
+I’m **Gazal Pancholi**, a Computer Science Engineering student passionate about **AI-ML,Cloud Computing and creative tech projects**.
 
 This repository contains my latest **resume** — you can view or download it below 👇  
 
@@ -11,16 +11,18 @@ This repository contains my latest **resume** — you can view or download it be
 
 ### 👩‍💻 About Me
 - 💡 CSE student at **Poornima College of Engineering**
-- ☁️ Vice Captain — **AWS Cloud Club**
-- 🤖 Working on **AI + Web Dev projects** like NeuraBlood and Finance Tracker
+- ☁️ Ex-Vice President — **AWS Cloud Club**
+- 🚀 Core Team Member - **Cyfox,PCE**
+- 🤖 Working on **AI-ML Projects** like NeuraBlood, Timeout and Finance Tracker
 - 🎨 Love combining **design + code** to make ideas come alive
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, C, JavaScript  
-**Tools & Frameworks:** React, Node.js, Firebase, AWS, Gradio  
-**Other Interests:** Cloud Computing, AI Integration, UI/UX Design
+**Languages:** Python,C++, Java, C, HTML, CSS
+**Tools & Frameworks:** Firebase, AWS, Gradio, Google Cloud- Colab, Pycharm
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, OpenCV, Keras 
+**Other Interests:** Cloud Computing, AI Integration, Machine Learning
 
 ---
 
